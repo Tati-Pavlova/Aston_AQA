@@ -11,6 +11,7 @@ public class MainApp {
         persArray[4] = new Person("Василий Попов", "Тим Лид", "tati5@mail.ru", "+78768884352", 13450, 40);
 
         persArray[0].print();
+
     }
 
 }
